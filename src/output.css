@@ -554,6 +554,10 @@ video {
   --tw-contain-style:  ;
 }
 
+.static {
+  position: static;
+}
+
 .absolute {
   position: absolute;
 }
@@ -677,6 +681,10 @@ video {
 
 .mr-\[896px\] {
   margin-right: 896px;
+}
+
+.mt-8 {
+  margin-top: 2rem;
 }
 
 .inline-block {
